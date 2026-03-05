@@ -13,5 +13,4 @@ db.connect((err) => {
     console.log("Connected to My SqlDatabase");
   }
 });
-
 module.exports = db;
